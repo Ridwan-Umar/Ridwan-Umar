@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ridwan Umar
 
-🎓 **2nd Year Computer Science Student** at **IIIT Bangalore**  
+🎓 **3rd Year Computer Science Student** at **IIIT Bangalore**  
 💻 Passionate about learning, building, and exploring technology  
 
 ---
